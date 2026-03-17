@@ -1,0 +1,5 @@
+# GPS经纬度转换 Android应用依赖
+kivy==2.1.0
+requests==2.28.0
+openpyxl==3.0.10
+xlrd==2.0.1
